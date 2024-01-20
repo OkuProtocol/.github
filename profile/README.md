@@ -14,7 +14,7 @@ In a nutshell, M3tering is a token incentivized protocol with the objective of d
 
 - **Pre-Payment with DAI:** Consumers, such as households or commercial buildings, are incentivized to connect to the M3tering Protocol to access clean electricity. They pre-pay for the electricity they intend to consume using the DAI stablecoins, which are cryptocurrencies designed to have a stable value.
 
-- **Token Rewards: ** As consumers pre-pay for the electricity, providers are rewarded with the protocol tokens based on the amount of clean energy they supply to the consumers. The tokenomics of the protocol are designed to create incentives for providers to join and expand the network.
+- **Token Rewards:** As consumers pre-pay for the electricity, providers are rewarded with the protocol tokens based on the amount of clean energy they supply to the consumers. The tokenomics of the protocol are designed to create incentives for providers to join and expand the network.
 
  - **Network Effects and Growth:** The M3tering Protocol's tokenomics work in a way that more providers and consumers join the network, the higher the demand for DePIN tokens becomes. This, in turn, attracts more participants to the protocol, creating a feedback loop that drives further expansion.
 
