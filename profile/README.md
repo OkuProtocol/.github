@@ -1,8 +1,8 @@
 
 
-# Oku - Payment Infastructure Powered By M3tering Protocol
+# Oku - Payment Infrastructure Powered By M3tering Protocol
 
-### Oku is a Payment Infastructure that engages with the M3tering Protocol, allowing users to make payments and renew their solar-power utility using Fiat and Crypto Currency.
+### Oku is a Payment Infrastructure that engages with the M3tering Protocol, allowing users to make payments and renew their solar-power utility using Fiat and Crypto Currency.
 
 
 ## Overview of M3tering Protocol
