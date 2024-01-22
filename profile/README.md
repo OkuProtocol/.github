@@ -1,6 +1,9 @@
 
 
-![OKUPNG](https://github.com/OkuProtocol/.github/assets/40062598/a97a8b58-2180-45e9-bbc2-2e35eb6d5ad8)
+
+<div align="center">
+ >![OKUPNG](https://github.com/OkuProtocol/.github/assets/40062598/a97a8b58-2180-45e9-bbc2-2e35eb6d5ad8)
+</div
 
 # Oku - Payment Infrastructure Powered By M3tering Protocol
 
