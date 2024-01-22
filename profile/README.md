@@ -1,5 +1,7 @@
 
 
+![OKUPNG](https://github.com/OkuProtocol/.github/assets/40062598/a97a8b58-2180-45e9-bbc2-2e35eb6d5ad8)
+
 # Oku - Payment Infrastructure Powered By M3tering Protocol
 
 ### Oku is a Payment Infrastructure that engages with the M3tering Protocol, allowing users to make payments and renew their solar-power utility using Fiat and Crypto Currency.
